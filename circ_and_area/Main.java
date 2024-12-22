@@ -22,7 +22,6 @@ public class Main {
             // while loop to test for valid input of area or circumference.
         while (!t) {
 
-                // block is printing twice for some reason.
             System.out.println("Please choose: ");
             System.out.println("A: Area");
             System.out.println("C: Circumference");
